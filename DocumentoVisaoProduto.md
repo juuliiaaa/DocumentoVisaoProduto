@@ -44,7 +44,11 @@ Funcionalidades:
 * Registro de histórico completo de atividades
 * Notificações e lembretes para incentivar a prática de exercícios
 
+###### Fluxograma - Cadastro
 ![Cadastro](./cadastro.svg)
+
+
+###### Fluxograma - Visualizar Estatística
 ![Visualizar Estatísticas](./visualizarEstatistica.svg)
 
 
